@@ -1,5 +1,10 @@
 # redis-toteriredyal
 redis toteriredyal
+set key value
+get key 
+fiashall
+keys *
+expire key second
 append key value
 
 set key value PX milysecond
