@@ -2,7 +2,7 @@
 redis toteriredyal
 set key value
 get key 
-fiashall
+flushall
 keys *
 expire key second
 append key value
