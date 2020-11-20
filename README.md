@@ -34,3 +34,8 @@ msetnx key1 value key2 value .......
 mget key1 key2 ....
 
 setex key second value 
+
+hset//hmset
+hget//hmget 
+hvlas
+hgetall key 
