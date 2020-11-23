@@ -39,3 +39,14 @@ hset//hmset
 hget//hmget 
 hvlas
 hgetall key 
+
+list -> lpush/rpush  key value
+
+lpop /rpop  key 
+ 
+llen key 
+
+lrange key 0 -1  
+
+linsert key after /before privolt value
+
