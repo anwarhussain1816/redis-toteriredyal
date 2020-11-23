@@ -50,3 +50,4 @@ lrange key 0 -1
 
 linsert key after /before privolt value
 
+lpushx key value  only 1  
