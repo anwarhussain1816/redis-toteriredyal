@@ -68,4 +68,4 @@ zrange key 0 -1
  
  zrevrange key 0 -1
  
- 
+ zscore key member
