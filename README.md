@@ -60,4 +60,12 @@ spop key count
 
 sdiif key //[key2]
 
+zadd key score member
 
+zcount key 
+
+zrange key 0 -1
+ 
+ zrevrange key 0 -1
+ 
+ 
